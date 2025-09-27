@@ -1,3 +1,5 @@
+# This repo is archived. [Use this instead.](https://github.com/fedotovdev/opengameframework)
+
 ![GAMESIM ICON](icon.png)
 # OGF
 
@@ -51,3 +53,4 @@ GameSimulation web-site:
 
 FedotovDev Patreon:
     https://www.patreon.com/FedotovDev8801
+
