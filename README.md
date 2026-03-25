@@ -1,4 +1,4 @@
-# This repo is archived. [Use this instead.](https://github.com/fedotovdev/opengameframework)
+# This repo is archived. [Use this instead.](https://github.com/fedotovdev8801/opengameframework)
 
 ![GAMESIM ICON](icon.png)
 # OGF
